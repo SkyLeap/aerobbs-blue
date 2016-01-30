@@ -1,14 +1,13 @@
 /*
-Theme Name: Twenty Fourteen
-Theme URI: http://wordpress.org/themes/twentyfourteen
-Author: the WordPress team
-Author URI: http://wordpress.org/
-Description: In 2014, our default theme lets you create a responsive magazine website with a sleek, modern design. Feature your favorite homepage content in either a grid or a slider. Use the three widget areas to customize your website, and change your content's layout with a full-width page template and a contributor page to show off your authors. Creating a magazine website with WordPress has never been easier.
-Version: 1.0
+Theme Name: AeroBBS-Blue
+Theme URI: https://aerobbs.com/theme
+Author: SkyLeap, the WordPress team
+Author URI: https://skyleap.org
+Description: A theme  wordpress with bbpress foked from Twenty Fourteen
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: black, green, white, light, dark, two-columns, three-columns, left-sidebar, right-sidebar, fixed-layout, responsive-layout, custom-background, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready, accessibility-ready
-Text Domain: twentyfourteen 
+Text Domain: twentyfourteen
 
 This theme, like WordPress, is licensed under the GPL.
 Use it to make something cool, have fun, and share what you've learned with others.
@@ -4303,9 +4302,9 @@ background-color: #D9E6E7 !important;
 }
 
 
-.site-content .entry-content, 
-.site-content .entry-summary, 
-.site-content .entry-meta, 
+.site-content .entry-content,
+.site-content .entry-summary,
+.site-content .entry-meta,
 .site-content .entry-header,
 .page-content {
 	margin: 0 auto;
@@ -4331,7 +4330,7 @@ background-color: #D9E6E7 !important;
 .widget input, .widget textarea {
 	border-color: rgba(80, 80, 80, 0.5) !important;
 	color: #696969 !important;
-} 
+}
 
 .site-title a{
 	background: url('images/logo.png') no-repeat 0 0;
@@ -4365,8 +4364,8 @@ background-color: #D9E6E7 !important;
 #bbpress-forums p.bbp-topic-meta img.avatar,
 #bbpress-forums ul.bbp-reply-revision-log img.avatar,
 #bbpress-forums ul.bbp-topic-revision-log img.avatar,
-#bbpress-forums div.bbp-template-notice img.avatar, 
-#bbpress-forums .widget_display_topics img.avatar, 
+#bbpress-forums div.bbp-template-notice img.avatar,
+#bbpress-forums .widget_display_topics img.avatar,
 #bbpress-forums .widget_display_replies img.avatar {
 	margin-bottom: 0px !important;
 	margin-left: 3px;
@@ -4390,7 +4389,7 @@ background-color: #D9E6E7 !important;
 	color: white !important;
 }
 .sub-menu li{
-	background-color: #0092e4 !important; 
+	background-color: #0092e4 !important;
 
 }
 #bbpress-forums li.bbp-body ul.topic {
@@ -4412,7 +4411,7 @@ background-color: #D9E6E7 !important;
 
 /* for login  sidebar */
 .widget_wp_sidebarlogin .avatar_container img, #sidebar-login .avatar_container img {
-padding: 0px !important; 
+padding: 0px !important;
 margin-right: 10px;
 margin-top: 0px !important;
 margin-left: 10px;
